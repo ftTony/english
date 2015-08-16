@@ -45,9 +45,16 @@ LiMingworksveryhard.李明学习很努力。
 
 #### 3.2 英语时态
 
-| 英语时太总结                                                          |                                |                                            |                                          |
-| --------------------------------------------------------------------- | ------------------------------ | ------------------------------------------ | ---------------------------------------- |
-| [一般现在时](https://www.hjenglish.com/shitai/yibanxianzaishi/) do th | 一般过去时 did sth             | 一般将来时 will do/be going to do/shall do | 现在进行时 be doing                      |
-| 过去进行时 was/were doing                                             | 现在完成时 have done           | 过去完成时 had done                        | 现在完成进行时 have been doing           |
-| 一般过去将来时 would do                                               | 将来进行时 will be doing       | 将来完成时 will have done                  | 过去完成进行时 had been doing            |
-| 过去将来进行时 would be doing/was/were going to do                    | 过去将来完成时 would have done | 将来完成进行时 will have been doing        | 过去将来完成进行时 would have been doing |
+| 英语时太总结                                                          |                                                                       |                                                                                                  |                                          |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [一般现在时](https://www.hjenglish.com/shitai/yibanxianzaishi/) do th | [一般过去时](https://www.hjenglish.com/shitai/yibanguoqushi/) did sth | [一般将来时](https://www.hjenglish.com/shitai/yibanjianglaishi/) will do/be going to do/shall do | 现在进行时 be doing                      |
+| 过去进行时 was/were doing                                             | 现在完成时 have done                                                  | 过去完成时 had done                                                                              | 现在完成进行时 have been doing           |
+| 一般过去将来时 would do                                               | 将来进行时 will be doing                                              | 将来完成时 will have done                                                                        | 过去完成进行时 had been doing            |
+| 过去将来进行时 would be doing/was/were going to do                    | 过去将来完成时 would have done                                        | 将来完成进行时 will have been doing                                                              | 过去将来完成进行时 would have been doing |
+
+### 参考资料
+
+- [英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+- [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
+- [英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+- [暴力英语学习法 + 严格的目标管理 = 成功快速靠谱的学好英语](https://www.cnblogs.com/jesse2013/p/how-to-learn-english.html)
